@@ -11,7 +11,5 @@
 * [Udemy Python基礎課程和網路爬蟲入門實戰](https://www.udemy.com/course/codegym-python/)
 * [大數學堂](https://www.largitdata.com/courses/)
 
----
-
 > 有時間也學一下 Flask, Django 這兩個伺服器框架!
 
